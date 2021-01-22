@@ -20,3 +20,7 @@ chmod +x redis.sh
 •The old server root password to get access and grep the file .
 
 •NOTE: if he ask you for (yes/no) enter yes .
+
+# By
+
+https://t.me/Ra_m9
