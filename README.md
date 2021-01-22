@@ -16,5 +16,7 @@ chmod +x redis.sh
 •Will ask you for:
 
 •The old server-ip address .
+
 •The old server root password to get access and grep the file .
+
 •NOTE: if he ask you for (yes/no) enter yes .
