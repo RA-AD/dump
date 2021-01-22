@@ -2,9 +2,9 @@
 
 # contact me https://t.me/ZAXY9
 
-echo -e "\n\nThis Script is written by: RAADM https://t.me/ZAXY9\n\n"
+echo -e "\n\nThis Script is written by: RAAD https://t.me/ZAXY9\n\n"
 
-sleep 3
+sleep 4
 
 apt-get update
 
