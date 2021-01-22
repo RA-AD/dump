@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# contact me https://t.me/ZAXY9
+# contact me https://t.me/K6KKK
 
-echo -e "\n\nThis Script is written by: RAAD https://t.me/ZAXY9\n\n"
+echo -e "\n\nThis Script is written by: AYMEN https://t.me/K6KKK\n\n"
 
 sleep 3
 
@@ -28,7 +28,7 @@ echo -e "\n\nRestarting redis-server ......\n\n"
 
 service redis start
 
-echo -e "\n\nDone Installing New Redis DB\nScript By: https://t.me/ZAXY9"
+echo -e "\n\nDone Installing New Redis DB\nScript By: https://t.me/K6KKK"
 
 echo -e "\nAfter 5 Sec will run redis-cli keys test\n\n"
 
