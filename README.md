@@ -23,4 +23,4 @@ chmod +x redis.sh
 
 # By
 
-https://t.me/Ra_m9
+https://t.me/Ra0ad
